@@ -1,4 +1,4 @@
 {
-    "TELEGRAM_TOKEN": "6272191511:AAGT_ewFElODihm096yMKF1inuSIgwMOBfw",
-    "OPENAI_KEY": "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"
+    "TELEGRAM_TOKEN": "telegram_token",
+    "OPENAI_KEY": "apenai_key"
 }
